@@ -7,6 +7,7 @@ step 1. This file needs to be in your test suite
 
 Here is the script for the file:
 
+You need this file to reference the powershell script or else the tests will not run
 
 echo off
 
