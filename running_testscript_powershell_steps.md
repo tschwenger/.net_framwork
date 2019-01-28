@@ -16,11 +16,11 @@ from cmd shell
 
 changes directory the the following:
 
-c:
+      c:
 
 navigate down to the directory if needed
 
-cd users\username\\documents\my tests
+      cd users\username\\documents\my tests
 
 
 just run the following after 2018-03-23_test1 "name of dimensino"
@@ -31,7 +31,7 @@ note if you are running test cases from the dataprocessvalidation folder follow 
 
 example
 
-cd users\username\documents\my tests\DataProcessValidation
+      cd users\username\documents\my tests\DataProcessValidation
 
 You will need to update the command prompt for the power shell script as well to point to the proper directory. Then you should be fine. 
 
