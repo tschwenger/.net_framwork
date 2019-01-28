@@ -1,4 +1,8 @@
 
+# Create your own folder for testing
+
+Ideally, test suites will be set up and all you need to do is copy and paste out the test suite from the dev environment that's updated and paste that somewhere locally that you aren't pushing to the source control environment. 
+
 This is a script to run each time you create a new branch and need to test
 
             # **** Replaced variables below ****
